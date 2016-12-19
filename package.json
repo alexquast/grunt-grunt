@@ -19,7 +19,7 @@
     "gruntfile"
   ],
   "engines": {
-    "node": "0.10.18",
+    "node": ">=0.10.18",
     "npm": "1.2.x"
   },
   "dependencies": {
